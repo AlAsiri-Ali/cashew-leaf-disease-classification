@@ -1,0 +1,7 @@
+model,learning_rate,best_val_f1,test_macro_f1,test_accuracy
+EfficientNet-B0,3e-4,0.9872,0.9880,98.58
+EfficientNet-B0,1e-4,0.9871,0.9860,98.37
+ResNet-18,3e-4,0.9775,0.9800,97.66
+DenseNet-121,3e-4,0.9698,0.9764,97.25
+ResNet-18,1e-4,0.9604,0.9712,96.64
+VGG-16,3e-4,0.9661,0.9673,96.34
